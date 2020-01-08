@@ -1,0 +1,8 @@
+This is a running list of TODO's:
+
+TODO in progress:
+
+TODO in backlog:
+1. Update #1 gitGood auto-configuration script
+    It will be possible to suppress generation
+     of aliases, if they should not be applied
