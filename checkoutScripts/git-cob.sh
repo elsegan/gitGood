@@ -1,5 +1,5 @@
 #!/bin/sh
-# Author : Andrew Elsegood (CC-DA/ENG1-AU) 28/10/2019
+# Author : Annie Elsegood 28/10/2019
 # Purpose: Checkout a branch that is already local
 
 if [ $# -eq 0 ]; then

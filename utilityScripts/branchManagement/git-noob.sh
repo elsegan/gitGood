@@ -1,5 +1,5 @@
 #!/bin/sh
-# Author : Andrew Elsegood (CC-DA/ENG1-AU) 28/10/2019
+# Author : Annie Elsegood 28/10/2019
 # Purpose: Create a new branch and ensure that it is tracked on the server
 
 if [ $# -eq 0 ]; then

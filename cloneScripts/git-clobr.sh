@@ -1,5 +1,5 @@
 #!/bin/sh
-# Author : Andrew Elsegood (CC-DA/ENG1-AU) 28/10/2019
+# Author : Annie Elsegood 28/10/2019
 # Purpose: Clone a repository at the origin of a specific branch and recurse its submodules
 
 if [ $# -eq 0 ]; then

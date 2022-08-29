@@ -1,5 +1,5 @@
 #!/bin/sh
-# Author : Andrew Elsegood (CC-DA/ENG1-AU)
+# Author : Annie Elsegood 28/10/2019
 # Purpose: Create some common shortenings of commands globally
 #          It will forcefully override all the existing elements
 

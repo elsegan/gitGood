@@ -1,5 +1,5 @@
 #!/bin/sh
-# Author : Andrew Elsegood (CC-DA/ENG1-AU)
+# Author : Annie Elsegood 28/10/2019
 # Purpose: Take the base folder containing git-<name>.sh
 #           and add them as aliases for local git
 #          It will forcefully override all the existing elements
